@@ -1800,6 +1800,30 @@
             "tags": ["web", "uxui", "stocks"],
             "description": "350+ Carefully designed icons set. Free icons."
         },
+        {
+            "name": "Sortable",
+            "url": "https://github.com/tofsjonas/sortable",
+            "category": "web",
+            "tags": ["javascript"],
+            "description": "Makes any table with .sortable class, er, sortable. The user can click on a table header and change the sorting of the table rows.",
+            "subtitle": "Vanilla JavaScript table sort"
+        },
+        {
+            "name": "Krea.ai",
+            "url": "https://www.krea.ai/",
+            "category": "web",
+            "tags": ["javascript"],
+            "description": "",
+            "subtitle": "Generate images and videos with a delightful AI-powered design tool."
+        },
+        {
+            "name": "Noel Delgado",
+            "url": "https://pixelia.me/",
+            "category": "web",
+            "tags": ["ui", "css", "javascript", "favourites"],
+            "description": "💖",
+            "subtitle": "Personal playground site of Web Developer Noel Delgado."
+        },
 
         {
             "name": "PropellerHeads",
@@ -1816,6 +1840,14 @@
             "tags": ["ui", "favourites"],
             "description": "💖",
             "subtitle": "Explore PropellerSwap, your trusted DeFi Swap platform. We offer optimized pricing and MEV protection for secure, efficient trading."
+        },
+        {
+            "name": "AlphaBot Society",
+            "url": "https://www.alphabotsociety.com/",
+            "category": "web",
+            "tags": ["ui", "favourites"],
+            "description": "Welcome to AlphaBot Society, a collection of 10,000 unique robot NFTs with over 120 hand crafted traits used to participate in a Web3 Community-Driven Choose-Your-Own Adventure experience.",
+            "subtitle": "Community-Driven Choose-Your-Own-Adventure NFT Project"
         }
     ]
 }
