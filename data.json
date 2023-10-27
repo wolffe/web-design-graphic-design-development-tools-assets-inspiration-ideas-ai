@@ -173,7 +173,6 @@
             "url": "https://chartscss.org/",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "https://chartscss.org/assets/img/logo.svg",
             "description": "CSS data visualization framework",
             "subtitle": "Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts."
         },
@@ -182,7 +181,6 @@
             "url": "https://webdesign.tutsplus.com/tutorials/animate-on-scroll-with-javascript--cms-36671",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "N/A",
             "description": "Sample code and explanation on how to build your own On Scroll animations with vanilla JS."
         },
         {
@@ -190,7 +188,6 @@
             "url": "https://github.com/krishdevdb/reseter.css#why-use-resetercss-must-read",
             "category": "web",
             "tags": ["web", "stocks", "cssjava"],
-            "logo": "N/A",
             "description": "Reseter.css resets all the premade styles by the browser. Normalizes the browser's stylesheet. Removes most browser inconsistencies. Makes 90% styles be inherited by the parent. And much more..."
         },
         {
@@ -198,7 +195,6 @@
             "url": "https://www.tusk.page/",
             "category": "web",
             "tags": ["web", "graphic", "other"],
-            "logo": "https://about.tusk.page/favicon.ico",
             "description": "Simple, convenient way for people to give and receive anonymous feedback."
         },
         {
@@ -206,7 +202,6 @@
             "url": "https://httpbin.org/",
             "category": "web",
             "tags": ["web", "stocks", "cssjava"],
-            "logo": "https://httpbin.org/static/favicon.ico",
             "description": "A simple HTTP Request & Response Service"
         },
         {
@@ -214,7 +209,6 @@
             "url": "https://deskreen.com/",
             "category": "web",
             "tags": ["web", "stocks", "other"],
-            "logo": "N/A",
             "description": "Turn any device into a secondary screen for your computer"
         },
         {
@@ -222,7 +216,6 @@
             "url": "https://urlcast.io/",
             "category": "web",
             "tags": ["web", "stocks", "cssjava", "other"],
-            "logo": "https://urlcast.io/favicon.ico",
             "description": "The URL shortener and scheduler"
         },
         {
@@ -230,7 +223,6 @@
             "url": "https://omatsuri.app/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
-            "logo": "https://omatsuri.app/assets/favicon.ico",
             "description": "Open source browser tools for everyday use."
         },
         {
@@ -238,7 +230,6 @@
             "url": "https://moderncss.dev/complete-guide-to-centering-in-css/",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "https://moderncss.dev/favicon.png",
             "description": "Get ready to learn how to approach the age-old question faced by many a CSS practitioner: 'How do I center a div?'"
         },
         {
@@ -246,7 +237,6 @@
             "url": "https://www.svgwaves.io/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
-            "logo": "https://th.bing.com/th/id/Rd06bf0d6785f5422797f6f4cf2bea58c?rik=M32WEIdqKFkUFw&riu=http%3a%2f%2fprimusdatabase.com%2fimages%2f0%2f09%2fWaveIcon.png&ehk=KBkE1v0Qyn0B2nVxPVla3Kh2h8loCq2%2b5bE4%2f4OXH8U%3d&risl=&pid=ImgRaw",
             "description": "Simple and user-friendly SVG background waves generator"
         },
         {
@@ -254,7 +244,6 @@
             "url": "https://facet.ai/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks", "other"],
-            "logo": "https://facet.ai/favicon.ico",
             "description": "Content-aware image editing right in your browser"
         },
         {
@@ -262,7 +251,6 @@
             "url": "https://github.com/public-apis/public-apis",
             "category": "web",
             "tags": ["web", "stocks", "cssjava"],
-            "logo": "N/A",
             "description": "A collective list of free APIs for use in software and web development."
         },
         {
@@ -270,7 +258,6 @@
             "url": "https://tabpanelwidget.com",
             "category": "web",
             "tags": ["web", "stocks", "uxui", "cssjava"],
-            "logo": "https://tabpanelwidget.com/favicon-32x32.a6f4bdb8.png",
             "description": "From posh, to TABPANEL, to ACCORDION, & vice-versa"
         },
         {
@@ -278,7 +265,6 @@
             "url": "https://www.npmjs.com/package/faker",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "N/A",
             "description": "Generate massive amounts of fake data in the browser and node.js."
         },
         {
@@ -286,7 +272,6 @@
             "url": "https://generator.ws/",
             "category": "web",
             "tags": ["web", "stocks", "uxui", "cssjava"],
-            "logo": "https://generator.ws/wp-content/uploads/2020/12/cropped-24b3206d-e1c5-426f-9c45-83ca5abd81cb-5-192x192.png",
             "description": "Browser-based drag and drop Bootstrap theme builder with powerful possibilities."
         },
         {
@@ -294,7 +279,6 @@
             "url": "https://codepen.io/stoumann/pen/abZxoOM",
             "category": "web",
             "tags": ["web", "uxui", "cssjava", "other"],
-            "logo": "N/A",
             "description": "Interactive CSS clip-path Editor"
         },
         {
@@ -302,7 +286,6 @@
             "url": "https://revealjs.com/",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "https://revealjs.com/images/favicon.svg",
             "description": "The HTML Presentation Framework"
         },
         {
@@ -310,7 +293,6 @@
             "url": "https://thenounproject.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
-            "logo": "https://static.production.thenounproject.com/img/favicons/favicon-32x32.015f779a87e7.png",
             "description": "Icons and Photos For Everything"
         },
         {
@@ -318,7 +300,6 @@
             "url": "https://hotpot.ai/restore-picture",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks", "other"],
-            "logo": "https://hotpot.ai/images/apple-touch-icon.png",
             "description": "Restore pictures with AI in seconds; remove scratches, sharpen colors, and enhance faces"
         },
         {
@@ -326,7 +307,6 @@
             "url": "https://baseline.is/beta",
             "category": "web",
             "tags": ["web", "graphics", "logo", "cssjava", "other"],
-            "logo": "https://baseline.is/statics/icons/baseline-icon.svg",
             "description": "Create an extensive brand guide in a minute with our super simple brand guide creator."
         },
         {
@@ -334,7 +314,6 @@
             "url": "https://github.com/prabhuignoto/vue-float-menu",
             "category": "web",
             "tags": ["web", "uxui", "cssjava", "other"],
-            "logo": "N/A",
             "description": "Draggable, self-adjusting floating menu; finds the optimal menu orientation depending on the position of the menu."
         },
         {
@@ -342,7 +321,6 @@
             "url": "https://phosphoricons.com",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
-            "logo": "https://phosphoricons.com/favicon.ico",
             "description": "Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really."
         },
         {
@@ -350,7 +328,6 @@
             "url": "https://github.com/knadh/dragmove.js",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "N/A",
             "description": "Javascript library to make DOM elements draggable and movable; has touch screen support. Zero dependencies and 500 bytes Gzipped"
         },
         {
@@ -358,7 +335,6 @@
             "url": "https://www.calligrapher.ai",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
-            "logo": "N/A",
             "description": "Type your text, get AI handwriting; download in svg."
         },
         {
@@ -366,7 +342,6 @@
             "url": "https://bootstrap.build/",
             "category": "web",
             "tags": ["web", "stocks", "uxui", "cssjava"],
-            "logo": "https://bootstrap.build/favicon.png",
             "description": "Create Bootstrap 4 themes and templates. Start from scratch or reuse free featured designs."
         },
         {
@@ -374,7 +349,6 @@
             "url": "https://www.gethalfmoon.com/",
             "category": "web",
             "tags": ["web", "stocks", "uxui", "cssjava"],
-            "logo": "https://www.gethalfmoon.com/static/halfmoon/img/halfmoon-fav-alt.png",
             "description": "Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools."
         },
         {
@@ -382,7 +356,6 @@
             "url": "https://bgjar.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
-            "logo": "https://bgjar.com/bgjar-100x100.png",
             "description": "Free SVG background generator for your websites, blogs, and apps."
         },
         {
@@ -390,7 +363,6 @@
             "url": "https://www.anyfiddle.com/",
             "category": "web",
             "tags": ["web", "other"],
-            "logo": "https://www.anyfiddle.com/favicon.ico",
             "description": "Any language code playground. Build, run, and share code in seconds with our free editor. No setup required."
         },
         {
@@ -398,7 +370,6 @@
             "url": "https://the-webdesigner.co/seo-for-web-designers/",
             "category": "web",
             "tags": ["web", "education", "other"],
-            "logo": "https://the-webdesigner.co/wp-content/uploads/2020/05/twd.png",
             "description": "All web designers should know in 2020."
         },
         {
@@ -406,7 +377,6 @@
             "url": "https://wweb.dev/resources/navigation-generator",
             "category": "web",
             "tags": ["web", "stocks", "uxui", "cssjava"],
-            "logo": "https://wweb.dev/favicon.ico",
             "description": "Simple responsive navigation menu generator. Build your responsive menu quickly."
         },
         {
@@ -414,7 +384,6 @@
             "url": "https://www.oneword.domains/",
             "category": "web",
             "tags": ["web", "other"],
-            "logo": "https://www.oneword.domains/static/assets/logo.svg",
             "description": "A collection of available one-word domains."
         },
         {
@@ -422,7 +391,6 @@
             "url": "https://1linelayouts.glitch.me/",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "N/A",
             "description": "10 modern CSS layout and sizing techniques in a single line of styling code."
         },
         {
@@ -430,7 +398,6 @@
             "url": "https://1loc.dev/",
             "category": "web",
             "tags": ["web", "cssjava", "other"],
-            "logo": "N/A",
             "description": "Favorite JavaScript utilities in a single line of code. No more!"
         },
         {
@@ -438,7 +405,6 @@
             "url": "https://www.textfixer.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography", "cssjava", "other"],
-            "logo": "https://www.textfixer.com/favicon.png",
             "description": "Collection of free online tools for web coding and text conversion. Free online tools for generating random words, converting Word to HTML, and more web goodness."
         },
         {
@@ -446,7 +412,6 @@
             "url": "https://html-cleaner.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography", "cssjava", "other"],
-            "logo": "https://html-cleaner.com/favicon.ico",
             "description": "Amazing tool for any designer and developer. HTML/CSS/JavaScript cleaner and much more."
         },
         {
@@ -454,7 +419,6 @@
             "url": "https://fonts.google.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "https://www.gstatic.com/images/branding/product/1x/google_fonts_ios_76dp.png",
             "description": "Best free fonts foundry and more. Share and integrate typography into any design project seamlessly."
         },
         {
@@ -462,7 +426,6 @@
             "url": "https://fonts.bunny.net/",
             "category": "graphic",
             "tags": ["web", "typography"],
-            "logo": "https://www.gstatic.com/images/branding/product/1x/google_fonts_ios_76dp.png",
             "description": "Bunny Fonts | Explore Faster & GDPR friendly Fonts",
             "subtitle": "Bunny Fonts is a free font directory with over 1000+ fonts that are organized in 50+ categories. Bunny Fonts help make the internet faster, safer and GDPR compliant!"
         },
@@ -471,7 +434,6 @@
             "url": "http://fontjoy.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "http://fontjoy.com/favicon32.gif",
             "description": "Font pairing made simple. Sample different font pairings with customization and a showcase of similar fonts."
         },
         {
@@ -479,7 +441,6 @@
             "url": "https://www.websiteplanet.com/blog/best-free-fonts/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/favicon-32x32.png?v=1",
             "description": "70+ fonts that offer free licenses for commercial (and personal) use."
         },
         {
@@ -487,7 +448,6 @@
             "url": "https://www.mixfont.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "https://www.mixfont.com/static/media/logo.99b66e98.png",
             "description": "Fun and simple way to discover and visualize new fonts. Sample different font pairings with customization."
         },
         {
@@ -495,7 +455,6 @@
             "url": "https://indestructibletype.com/Jost.html",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "https://indestructibletype.com/assets/Favicon.png",
             "description": "Variable Futura font. Aims to keep the attitude of Futura rather than the exact design."
         },
         {
@@ -503,7 +462,6 @@
             "url": "https://www.boldwebdesign.com.au/font-combinations-for-web-designers.html",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "https://www.boldwebdesign.com.au/images/favicon.png",
             "description": "Font combinations for web designers. A collection of font pairings."
         },
         {
@@ -511,7 +469,6 @@
             "url": "https://www.myfonts.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography"],
-            "logo": "https://cdn.myfonts.net/s/images/icons/apple-touch-icon-57x57.png",
             "description": "Simple and easy to navigate commercial font foundry. A commercial font distributor."
         },
         {
