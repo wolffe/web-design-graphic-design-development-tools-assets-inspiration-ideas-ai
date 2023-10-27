@@ -1,6 +1,28 @@
 {
     "items": [
         {
+            "name": "AI Picture Restorer Beta",
+            "url": "https://hotpot.ai/restore-picture",
+            "category": "graphic",
+            "tags": ["web", "stocks", "ai", "other"],
+            "description": "Restore pictures with AI in seconds; remove scratches, sharpen colors, and enhance faces"
+        },
+        {
+            "name": "Anyfiddle",
+            "url": "https://www.anyfiddle.com/",
+            "category": "web",
+            "tags": ["other"],
+            "description": "Any language code playground. Build, run, and share code in seconds with our free editor. No setup required."
+        },
+        {
+            "name": "Apache ECharts",
+            "url": "https://echarts.apache.org/",
+            "category": "web",
+            "tags": ["cssjava", "other"],
+            "description": "An Open Source JavaScript Visualization Library",
+            "subtitle": "A Declarative Framework for Rapid Construction of Web-based Visualization."
+        },
+        {
             "name": "HTTPie AI",
             "url": "https://httpie.io/app",
             "category": "web",
@@ -23,14 +45,6 @@
             "tags": ["cssjava", "education", "uxui"],
             "description": "Laws of UX is a collection of best practices",
             "subtitle": "that designers can consider when building user interfaces."
-        },
-        {
-            "name": "Apache ECharts",
-            "url": "https://echarts.apache.org/",
-            "category": "web",
-            "tags": ["cssjava", "other"],
-            "description": "An Open Source JavaScript Visualization Library",
-            "subtitle": "A Declarative Framework for Rapid Construction of Web-based Visualization."
         },
         {
             "name": "Chart.js",
@@ -296,13 +310,6 @@
             "description": "Icons and Photos For Everything"
         },
         {
-            "name": "AI Picture Restorer Beta",
-            "url": "https://hotpot.ai/restore-picture",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks", "other"],
-            "description": "Restore pictures with AI in seconds; remove scratches, sharpen colors, and enhance faces"
-        },
-        {
             "name": "Brand Guide Generator",
             "url": "https://baseline.is/beta",
             "category": "web",
@@ -357,13 +364,6 @@
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
             "description": "Free SVG background generator for your websites, blogs, and apps."
-        },
-        {
-            "name": "Anyfiddle",
-            "url": "https://www.anyfiddle.com/",
-            "category": "web",
-            "tags": ["web", "other"],
-            "description": "Any language code playground. Build, run, and share code in seconds with our free editor. No setup required."
         },
         {
             "name": "23 SEO Tips",
@@ -1718,7 +1718,6 @@
             "url": "https://resumeworded.com",
             "category": "web",
             "tags": ["web", "graphics", "other"],
-            "logo": "N/A",
             "description": "Write effective resumes. Get inspired by handpicked resume lines that helped candidates get into companies."
         },
         {
@@ -1726,7 +1725,6 @@
             "url": "http://threed.io",
             "category": "web",
             "tags": ["web", "graphics", "other"],
-            "logo": "N/A",
             "description": "Create 3D text and logos. threed.io is a 3D text and logo maker for websites and social media."
         },
         {
@@ -1734,7 +1732,6 @@
             "url": "https://www.qr-code-generator.com/",
             "category": "web",
             "tags": ["web", "other"],
-            "logo": "https://www.qr-code-generator.com/favicon.ico",
             "description": "QR code generator. Create QR codes with a simple online tool."
         },
         {
@@ -1742,7 +1739,6 @@
             "url": "http://ecard.enter-media.org/css-text-effects/",
             "category": "web",
             "tags": ["graphic", "web", "typography"],
-            "logo": "http://ecard.enter-media.org/img/favicon.png",
             "description": "Various CSS Text Effects. CSS text effects gallery we are using in Banner maker and Freefonts project."
         },
         {
@@ -1750,7 +1746,6 @@
             "url": "https://basicscroll.electerious.com",
             "category": "web",
             "tags": ["web", "cssjava", "animation", "other"],
-            "logo": "https://basicscroll.electerious.com/assets/images/favicon.ico",
             "description": "Standalone parallax scrolling with CSS variables. basicScroll allows you to change CSS variables depending on the scroll position. Use the variables directly in your CSS to animate whatever you want."
         },
         {
@@ -1758,7 +1753,6 @@
             "url": "http://www.fontisto.com/icons",
             "category": "web",
             "tags": ["web", "uxui", "stocks"],
-            "logo": "http://www.fontisto.com/assets/images/touch/fontisto-192.png",
             "description": "fontisto the iconic font and CSS toolkit · 552+ free icons. Free icons."
         },
         {
@@ -1806,7 +1800,6 @@
             "url": "https://boxicons.com",
             "category": "web",
             "tags": ["web", "uxui", "stocks"],
-            "logo": "https://boxicons.com/static/img/favicon.ico?v=3",
             "description": "350+ Carefully designed icons set. Free icons."
         },
 
