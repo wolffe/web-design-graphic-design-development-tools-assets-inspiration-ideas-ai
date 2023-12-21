@@ -1869,6 +1869,20 @@
             "category": "web",
             "tags": ["uxui", "favourites"],
             "description": "A <select> component gallery of various implementation using various frameworks."
+        },
+        {
+            "name": "Stéphanie Walter",
+            "url": "https://stephaniewalter.design/",
+            "category": "web",
+            "tags": ["uxui", "inspiration", "favourites"],
+            "description": "UX Researcher & Product Designer"
+        },
+        {
+            "name": "Civitai",
+            "url": "https://civitai.com/",
+            "category": "web",
+            "tags": ["ai", "favourites"],
+            "description": "Civitai: The Home of Open-Source Generative AI"
         }
     ]
 }
