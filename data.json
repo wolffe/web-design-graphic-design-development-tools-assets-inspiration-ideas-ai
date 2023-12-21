@@ -1848,6 +1848,13 @@
             "tags": ["ui", "favourites"],
             "description": "Welcome to AlphaBot Society, a collection of 10,000 unique robot NFTs with over 120 hand crafted traits used to participate in a Web3 Community-Driven Choose-Your-Own Adventure experience.",
             "subtitle": "Community-Driven Choose-Your-Own-Adventure NFT Project"
+        },
+        {
+            "name": "FancySelect",
+            "url": "https://github.com/mdbassit/FancySelect",
+            "category": "web",
+            "tags": ["ui", "favourites"],
+            "description": "A tiny drop-in replacement for native HTML single select elements written in vanilla ES6."
         }
     ]
 }
