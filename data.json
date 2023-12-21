@@ -1862,6 +1862,13 @@
             "category": "web",
             "tags": ["ui", "favourites"],
             "description": "A better select for discerning web developers everywhere. <a href='https://web.archive.org/web/20161019003744/http://code.octopuscreative.com/fancyselect/'>Demo</a>"
+        },
+        {
+            "name": "<select> component gallery",
+            "url": "https://component.gallery/components/select/",
+            "category": "web",
+            "tags": ["ui", "favourites"],
+            "description": "A <select> component gallery of various implementation using various frameworks."
         }
     ]
 }
