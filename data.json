@@ -1855,6 +1855,13 @@
             "category": "web",
             "tags": ["ui", "favourites"],
             "description": "A tiny drop-in replacement for native HTML single select elements written in vanilla ES6."
+        },
+        {
+            "name": "FancySelect (jQuery)",
+            "url": "https://github.com/paulstraw/FancySelect",
+            "category": "web",
+            "tags": ["ui", "favourites"],
+            "description": "A better select for discerning web developers everywhere. <a href='https://web.archive.org/web/20161019003744/http://code.octopuscreative.com/fancyselect/'>Demo</a>"
         }
     ]
 }
