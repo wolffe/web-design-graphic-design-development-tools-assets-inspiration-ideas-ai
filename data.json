@@ -1853,21 +1853,21 @@
             "name": "FancySelect",
             "url": "https://github.com/mdbassit/FancySelect",
             "category": "web",
-            "tags": ["ui", "favourites"],
+            "tags": ["uxui", "favourites"],
             "description": "A tiny drop-in replacement for native HTML single select elements written in vanilla ES6."
         },
         {
             "name": "FancySelect (jQuery)",
             "url": "https://github.com/paulstraw/FancySelect",
             "category": "web",
-            "tags": ["ui", "favourites"],
+            "tags": ["uxui", "favourites"],
             "description": "A better select for discerning web developers everywhere. <a href='https://web.archive.org/web/20161019003744/http://code.octopuscreative.com/fancyselect/'>Demo</a>"
         },
         {
             "name": "<select> component gallery",
             "url": "https://component.gallery/components/select/",
             "category": "web",
-            "tags": ["ui", "favourites"],
+            "tags": ["uxui", "favourites"],
             "description": "A <select> component gallery of various implementation using various frameworks."
         }
     ]
