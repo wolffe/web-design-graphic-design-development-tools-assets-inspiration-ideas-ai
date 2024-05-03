@@ -15,13 +15,6 @@
             "description": "Restore pictures with AI in seconds; remove scratches, sharpen colors, and enhance faces"
         },
         {
-            "name": "Anyfiddle",
-            "url": "https://www.anyfiddle.com/",
-            "category": "web",
-            "tags": ["other"],
-            "description": "Any language code playground. Build, run, and share code in seconds with our free editor. No setup required."
-        },
-        {
             "name": "Apache ECharts",
             "url": "https://echarts.apache.org/",
             "category": "web",
@@ -75,14 +68,6 @@
             "tags": ["cssjava", "other"],
             "description": "Simple yet flexible JavaScript charting library for the modern web",
             "subtitle": ""
-        },
-        {
-            "name": "Web Page Design",
-            "url": "https://webpagedesign.io/",
-            "category": "web",
-            "tags": ["stocks", "other"],
-            "description": "Web Page Design provides Beautifully, organized designs for any business.",
-            "subtitle": "Download Free templates for Figma and Adobe XD."
         },
         {
             "name": "UI KIT",
@@ -220,13 +205,6 @@
             "description": "Sample code and explanation on how to build your own On Scroll animations with vanilla JS."
         },
         {
-            "name": "Reseter.css",
-            "url": "https://github.com/krishdevdb/reseter.css#why-use-resetercss-must-read",
-            "category": "web",
-            "tags": ["web", "stocks", "cssjava"],
-            "description": "Reseter.css resets all the premade styles by the browser. Normalizes the browser's stylesheet. Removes most browser inconsistencies. Makes 90% styles be inherited by the parent. And much more..."
-        },
-        {
             "name": "tusk",
             "url": "https://www.tusk.page/",
             "category": "web",
@@ -239,13 +217,6 @@
             "category": "web",
             "tags": ["web", "stocks", "cssjava"],
             "description": "A simple HTTP Request & Response Service"
-        },
-        {
-            "name": "Deskreen",
-            "url": "https://deskreen.com/",
-            "category": "web",
-            "tags": ["web", "stocks", "other"],
-            "description": "Turn any device into a secondary screen for your computer"
         },
         {
             "name": "URLcast.io",
@@ -297,20 +268,6 @@
             "description": "From posh, to TABPANEL, to ACCORDION, & vice-versa"
         },
         {
-            "name": "faker.js",
-            "url": "https://www.npmjs.com/package/faker",
-            "category": "web",
-            "tags": ["web", "cssjava", "other"],
-            "description": "Generate massive amounts of fake data in the browser and node.js."
-        },
-        {
-            "name": "Bootstrap 5 Generator",
-            "url": "https://generator.ws/",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui", "cssjava"],
-            "description": "Browser-based drag and drop Bootstrap theme builder with powerful possibilities."
-        },
-        {
             "name": "CSS clip-path Editor",
             "url": "https://codepen.io/stoumann/pen/abZxoOM",
             "category": "web",
@@ -330,20 +287,6 @@
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
             "description": "Icons and Photos For Everything"
-        },
-        {
-            "name": "Brand Guide Generator",
-            "url": "https://baseline.is/beta",
-            "category": "web",
-            "tags": ["web", "graphics", "logo", "cssjava", "other"],
-            "description": "Create an extensive brand guide in a minute with our super simple brand guide creator."
-        },
-        {
-            "name": "Float Menu (Vue)",
-            "url": "https://github.com/prabhuignoto/vue-float-menu",
-            "category": "web",
-            "tags": ["web", "uxui", "cssjava", "other"],
-            "description": "Draggable, self-adjusting floating menu; finds the optimal menu orientation depending on the position of the menu."
         },
         {
             "name": "Phosphor Icons",
@@ -367,32 +310,11 @@
             "description": "Type your text, get AI handwriting; download in svg."
         },
         {
-            "name": "Bootstrap Build",
-            "url": "https://bootstrap.build/",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui", "cssjava"],
-            "description": "Create Bootstrap 4 themes and templates. Start from scratch or reuse free featured designs."
-        },
-        {
-            "name": "Halfmoon",
-            "url": "https://www.gethalfmoon.com/",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui", "cssjava"],
-            "description": "Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools."
-        },
-        {
             "name": "BGJar",
             "url": "https://bgjar.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
             "description": "Free SVG background generator for your websites, blogs, and apps."
-        },
-        {
-            "name": "23 SEO Tips",
-            "url": "https://the-webdesigner.co/seo-for-web-designers/",
-            "category": "web",
-            "tags": ["web", "education", "other"],
-            "description": "All web designers should know in 2020."
         },
         {
             "name": "Responsive Menu Generator",
@@ -416,92 +338,6 @@
             "description": "10 modern CSS layout and sizing techniques in a single line of styling code."
         },
         {
-            "name": "JS Utilities",
-            "url": "https://1loc.dev/",
-            "category": "web",
-            "tags": ["web", "cssjava", "other"],
-            "description": "Favorite JavaScript utilities in a single line of code. No more!"
-        },
-        {
-            "name": "Text Fixer",
-            "url": "https://www.textfixer.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography", "cssjava", "other"],
-            "description": "Collection of free online tools for web coding and text conversion. Free online tools for generating random words, converting Word to HTML, and more web goodness."
-        },
-        {
-            "name": "HTML Cleaner",
-            "url": "https://html-cleaner.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography", "cssjava", "other"],
-            "description": "Amazing tool for any designer and developer. HTML/CSS/JavaScript cleaner and much more."
-        },
-        {
-            "name": "Google Fonts",
-            "url": "https://fonts.google.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "Best free fonts foundry and more. Share and integrate typography into any design project seamlessly."
-        },
-        {
-            "name": "Bunny Fonts",
-            "url": "https://fonts.bunny.net/",
-            "category": "graphic",
-            "tags": ["web", "typography"],
-            "description": "Bunny Fonts | Explore Faster & GDPR friendly Fonts",
-            "subtitle": "Bunny Fonts is a free font directory with over 1000+ fonts that are organized in 50+ categories. Bunny Fonts help make the internet faster, safer and GDPR compliant!"
-        },
-        {
-            "name": "Fontjoy",
-            "url": "http://fontjoy.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "Font pairing made simple. Sample different font pairings with customization and a showcase of similar fonts."
-        },
-        {
-            "name": "70+ Best Free Fonts",
-            "url": "https://www.websiteplanet.com/blog/best-free-fonts/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "70+ fonts that offer free licenses for commercial (and personal) use."
-        },
-        {
-            "name": "Mixfont",
-            "url": "https://www.mixfont.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "Fun and simple way to discover and visualize new fonts. Sample different font pairings with customization."
-        },
-        {
-            "name": "Jost",
-            "url": "https://indestructibletype.com/Jost.html",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "Variable Futura font. Aims to keep the attitude of Futura rather than the exact design."
-        },
-        {
-            "name": "Font Combinations",
-            "url": "https://www.boldwebdesign.com.au/font-combinations-for-web-designers.html",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "Font combinations for web designers. A collection of font pairings."
-        },
-        {
-            "name": "My Fonts",
-            "url": "https://www.myfonts.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "description": "Simple and easy to navigate commercial font foundry. A commercial font distributor."
-        },
-        {
-            "name": "Identifont",
-            "url": "http://www.identifont.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography"],
-            "logo": "http://www.identifont.com/images/icon-72.png",
-            "description": "Identify your font. Provides features to help you locate fonts or find information about fonts."
-        },
-        {
             "name": "Tabler Icons",
             "url": "https://tablericons.com/",
             "category": "graphic",
@@ -510,95 +346,12 @@
             "description": "558 fully customizable SVG icons."
         },
         {
-            "name": "Freepik",
-            "url": "https://www.freepik.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks"],
-            "logo": "https://freepik.cdnpk.net/img/favicons/favicon.ico?v=2018082101",
-            "description": "Graphic resources for everyone. Find free vectors, stock photos, PSD, and icons."
-        },
-        {
-            "name": "Nicepage",
-            "url": "http://shrsl.com/17m3a-1tj1-rsto",
-            "category": "web",
-            "tags": ["web", "cssjava", "animation", "stocks", "other"],
-            "logo": "https://static.nicepage.com/images/site/nicepage.jpg",
-            "description": "Website builder in your browser. Nicepage is the new powerful and easy-to-use builder for HTML5, Joomla, WordPress websites, blogs, and themes."
-        },
-        {
-            "name": "Burst",
-            "url": "https://burst.shopify.com/",
-            "category": "graphic",
-            "tags": ["web", "stocks"],
-            "logo": "https://burst.shopify.com/assets/global/favicon-ab7018e1fe708a49edcfecce3166032fbeeb1fd7ba4a078c366de344d32ee193.png",
-            "description": "Free stock photos catalogue."
-        },
-        {
-            "name": "Unsplash",
-            "url": "https://unsplash.com/",
-            "category": "graphic",
-            "tags": ["web", "photo"],
-            "logo": "https://unsplash.com/favicon.ico",
-            "description": "Free stock photos catalogue.",
-            "subtitle": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos."
-        },
-        {
-            "name": "Coverr",
-            "url": "https://coverr.co/",
-            "category": "graphic",
-            "tags": ["web", "photo"],
-            "logo": "https://unsplash.com/favicon.ico",
-            "description": "Free stock video footage, royalty free clips for download",
-            "subtitle": "Download royalty free (for personal and commercial use), unique and beautiful stock video footage for your website or any project. No attribution required."
-        },
-        {
-            "name": "Openverse",
-            "url": "https://openverse.org/",
-            "category": "graphic",
-            "tags": ["web", "photo"],
-            "logo": "https://unsplash.com/favicon.ico",
-            "description": "Explore more than 700 million creative works",
-            "subtitle": "An extensive library of free stock photos, images, and audio, available for free use."
-        },
-        {
             "name": "Moose",
             "url": "https://photos.icons8.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "stocks"],
             "logo": "https://photos.icons8.com/photos/static/img/moose_favicon-2.ico?v=1",
             "description": "Stock photos designed to work together — for free."
-        },
-        {
-            "name": "Pexels",
-            "url": "https://www.pexels.com/",
-            "category": "graphic",
-            "tags": ["web", "photo"],
-            "logo": "https://www.pexels.com/favicon.ico",
-            "description": "Free stock photos catalogue."
-        },
-        {
-            "name": "Freerange",
-            "url": "https://freerangestock.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks"],
-            "logo": "N/A",
-            "description": "Free stock photos catalogue."
-        },
-        {
-            "name": "FreeDigitalPhotos",
-            "url": "http://www.freedigitalphotos.net/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks"],
-            "logo": "http://www.freedigitalphotos.net/favicon.ico",
-            "description": "Free stock photos catalogue."
-        },
-        {
-            "name": "Getty Images",
-            "url": "http://www.gettyimages.co.uk/resources/embed",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks"],
-            "logo": "http://www.gettyimages.co.uk/favicon.ico",
-            "description": "Free non-commercial stock photos for embedding."
         },
         {
             "name": "Muz.li",
@@ -617,14 +370,6 @@
             "description": "Showcase of the finest web and interactive design. Browse sites by style, type, or subject."
         },
         {
-            "name": "StockLayouts",
-            "url": "https://www.stocklayouts.com",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks", "inspiration"],
-            "logo": "https://www.stocklayouts.com/favicon.ico",
-            "description": "Free Graphic Design Templates for inspiration."
-        },
-        {
             "name": "Image Compare / Viewer",
             "url": "https://github.com/kylewetton/image-compare-viewer",
             "category": "web",
@@ -641,78 +386,6 @@
             "description": "The Biggest Collection of Free Responsive Email Templates."
         },
         {
-            "name": "VectorPortal",
-            "url": "https://www.vectorportal.com/templates/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "stocks", "inspiration"],
-            "logo": "https://www.vectorportal.com/favicon.ico",
-            "description": "Free vectors and templates."
-        },
-        {
-            "name": "Google HTML/CSS Style Guide",
-            "url": "https://google.github.io/styleguide/htmlcssguide.html",
-            "category": "graphic",
-            "tags": ["graphic", "web", "css", "education"],
-            "logo": "https://www.google.com/favicon.ico",
-            "description": "HTML and CSS style guide defining formatting and style rules."
-        },
-        {
-            "name": "10 Best SEO Tools",
-            "url": "https://www.onlinerockershub.com/best-seo-tools.html",
-            "category": "web",
-            "tags": ["web", "education"],
-            "logo": "https://i1.wp.com/www.onlinerockershub.com/wp-content/uploads/2017/12/OnlineRockersHub-Circular-Logo-with-Transparent-Background-e1533959844367.png?fit=32%2C32&quality=90&strip=all&ssl=1",
-            "description": "10 Best SEO Tools to boost your organic traffic."
-        },
-        {
-            "name": "Course Duck",
-            "url": "https://courseduck.com/programming/javascript/awards.php",
-            "category": "web",
-            "tags": ["web", "cssjava", "education"],
-            "logo": "https://courseduck.com/wp-content/themes/reviews/images/favicon.ico",
-            "description": "Collection of online programming courses."
-        },
-        {
-            "name": "Logo Design Article",
-            "url": "http://jsbmorse.com/4-principles-of-great-logo-design/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "logo", "education"],
-            "logo": "http://ranqit.com/art/jsbm.ico",
-            "description": "4 Principles of Great Logo Design for consumers, marketers, and CEOs."
-        },
-        {
-            "name": "Form design",
-            "url": "https://adamsilver.io/articles/form-design-from-zero-to-hero-all-in-one-blog-post/",
-            "category": "web",
-            "tags": ["web", "education", "other"],
-            "logo": "https://adamsilver.io/favicon-32x32.png",
-            "description": "Best practices for online form design in one blog post."
-        },
-        {
-            "name": "Logo Design Article",
-            "url": "http://millo.co/tips-on-presenting-logos-to-a-client",
-            "category": "graphic",
-            "tags": ["graphic", "web", "logo", "education"],
-            "logo": "http://millo.co/favicon.ico",
-            "description": "7 Tips on presenting logos to a client, an important piece of logo design."
-        },
-        {
-            "name": "Top 74 Logos",
-            "url": "http://www.zankrank.com/Ranqings/Default.aspx?currentRanqing=logos",
-            "category": "graphic",
-            "tags": ["graphic", "web", "logo", "education", "inspiration"],
-            "logo": "http://www.zankrank.com/art/ranqit.ico",
-            "description": "Original list of top 74 logos by ZankRank, good for education and inspiration."
-        },
-        {
-            "name": "logolounge",
-            "url": "https://www.logolounge.com/",
-            "category": "graphic",
-            "tags": ["graphic", "web", "logo", "inspiration"],
-            "logo": "https://www.logolounge.com/assets/favicons/apple-touch-icon-72x72.png",
-            "description": "Logo catalogue for inspiration and education."
-        },
-        {
             "name": "Better Font Finder",
             "url": "https://jmattthew.github.io/better-font-finder/better-font-finder.html",
             "category": "graphic",
@@ -722,7 +395,7 @@
         },
         {
             "name": "Google Font Combinations",
-            "url": "https://theultralinx.com/2015/04/best-google-web-font-combinations/",
+            "url": "https://ultralinx.com/",
             "category": "graphic",
             "tags": ["graphic", "web", "typography", "inspiration"],
             "logo": "https://theultralinx.com/favicon.ico",
@@ -743,38 +416,6 @@
             "tags": ["graphic", "web", "typography", "inspiration"],
             "logo": "http://fontpair.co/img/card.jpg",
             "description": "Tool to create and find font combinations using Google Fonts."
-        },
-        {
-            "name": "Responsive web typography",
-            "url": "http://www.creativebloq.com/how-to/the-rules-of-responsive-web-typography",
-            "category": "web",
-            "tags": ["web", "typography", "education"],
-            "logo": "http://www.creativebloq.com/20171103/apple-touch-icon.png",
-            "description": "Rules for responsive web typography."
-        },
-        {
-            "name": "F37 Foundry",
-            "url": "http://www.f37foundry.com",
-            "category": "graphic",
-            "tags": ["graphic", "web", "typography", "inspiration"],
-            "logo": "http://www.f37foundry.com/favicon.ico",
-            "description": "Font foundry and more, including their Type Tester."
-        },
-        {
-            "name": "Froala Design Blocks",
-            "url": "https://www.froala.com/design-blocks",
-            "category": "web",
-            "tags": ["web", "uxui", "inspiration"],
-            "logo": "https://cdn0.froala.com/assets/favicons/favicon-96x96-2d1ca0ffaf4ee21a924402184ebbef02.png",
-            "description": "Over 170 responsive design blocks based on the Bootstrap Library."
-        },
-        {
-            "name": "Interfaces.pro",
-            "url": "https://interfaces.pro/",
-            "category": "web",
-            "tags": ["web", "uxui", "inspiration"],
-            "logo": "https://interfaces.pro/wp-content/themes/interfaces/pictures/apple-touch-icon.png",
-            "description": "Collection of UI design examples and samples."
         },
         {
             "name": "Best Website Gallery",
@@ -808,22 +449,6 @@
             "description": "Inspirational websites. Triple vetted websites."
         },
         {
-            "name": "20 Split Screen Website Designs",
-            "url": "https://line25.com/inspiration/split-screen-website-designs",
-            "category": "web",
-            "tags": ["web", "inspiration"],
-            "logo": "https://line25.com/favicon.ico",
-            "description": "Collection of website examples. Showcase of 20 split screen websites."
-        },
-        {
-            "name": "Free PSD Website Templates",
-            "url": "https://www.themexpert.com/blog/top-free-psd-website-templates",
-            "category": "web",
-            "tags": ["web", "inspiration", "stocks"],
-            "logo": "https://www.themexpert.com/favicon.ico",
-            "description": "50 Free PSD Website Templates. 50+ Free PSD Website Templates For Corporate, Education, LMS, Blog Portfolio, and Other Awesome Websites – 2017."
-        },
-        {
             "name": "Dribbble",
             "url": "https://dribbble.com/",
             "category": "web",
@@ -848,14 +473,6 @@
             "description": "Portfolio design showcase. The nicest design portfolios on the web."
         },
         {
-            "name": "CallToIdea",
-            "url": "http://calltoidea.com/",
-            "category": "web",
-            "tags": ["web", "inspiration"],
-            "logo": "http://calltoidea.com/application/images//apple-touch-icon.png",
-            "description": "Web design elements. Web design elements and solutions."
-        },
-        {
             "name": "lapa",
             "url": "http://www.lapa.ninja/",
             "category": "web",
@@ -870,22 +487,6 @@
             "tags": ["web", "uxui", "stocks"],
             "logo": "https://jam-icons.com/favicon.ico",
             "description": "Handcrafted & pixel perfect icons. Jam icons are a set of icons designed for web projects, illustrations, print projects, etc. Shipped in both font & svg versions."
-        },
-        {
-            "name": "Easy CSS3 Generator",
-            "url": "https://css3gen.com/",
-            "category": "web",
-            "tags": ["web", "uxui", "cssjava"],
-            "logo": "https://css3gen.com/favicon.ico",
-            "description": "Visual CSS3 generator. CSS3Gen allows you to easily generate useful snippets of CSS3 and copy them straight into your projects."
-        },
-        {
-            "name": "MediaQuery Generator",
-            "url": "http://giona.net/tools/css3-mediaquery-generator/",
-            "category": "web",
-            "tags": ["web", "uxui", "cssjava"],
-            "logo": "http://giona.net/favicon.ico",
-            "description": "Visual MediaQuery generator. Easy to use and test MediaQuery generator."
         },
         {
             "name": "web.dev by Google",
@@ -920,52 +521,12 @@
             "description": "CSS Grid playground and dev tools. CSS Grid Layout is completely changing the game for web design. Learn about CSS Grid Layout and the Firefox DevTools layout panel."
         },
         {
-            "name": "Now UI Kit",
-            "url": "https://www.creative-tim.com/product/now-ui-kit",
-            "category": "web",
-            "tags": ["web", "uxui"],
-            "logo": "https://www.creative-tim.com/favicon.ico",
-            "description": "Free Bootstrap 4 UI kit. Now UI Kit is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 50 elements and 3 templates."
-        },
-        {
-            "name": "Webwide",
-            "url": "https://hello.webwide.io",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://hello.webwide.io/assets/images/favicon.png",
-            "description": "Community for web designers, developers, and makers. The inclusive discussion community for web designers, developers, and makers."
-        },
-        {
-            "name": "games for designers",
-            "url": "https://medium.com/@islanderua/browser-games-for-designers-aa496c4e710c",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
-            "description": "Browser games for designers. A list of 8 educational browser games for the people who like structuring and accuracy."
-        },
-        {
-            "name": "invoicetemplate",
-            "url": "https://invoicetemplate.co/",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://invoicetemplate.co/assets/favicon-32x32-e9a0a2794be2d7ee9738517e14557f6b56b7a5568bbc4a6e54074f7e83b00f0d.png",
-            "description": "Create invoices fast and free. Easy invoicing on any platform."
-        },
-        {
             "name": "Icons8",
             "url": "https://icons8.com/c/animated-icons",
             "category": "web",
             "tags": ["web", "uxui", "stocks", "animation"],
             "logo": "https://maxst.icons8.com/favicon.ico",
             "description": "60k flat icons + 60 Free Animated Icons. Huge collections of flat and animated icons."
-        },
-        {
-            "name": "Motion Icons",
-            "url": "https://motionicons.com",
-            "category": "web",
-            "tags": ["web", "uxui", "stocks", "animation"],
-            "logo": "https://motionicons.com/favicon.ico",
-            "description": "Beautiful, animated SVG icons. Collection of flat and animated icons."
         },
         {
             "name": "The Noun Project",
@@ -992,68 +553,12 @@
             "description": "A quiz/list of CSS selectors. Useful tool to understand CSS selectors."
         },
         {
-            "name": "Use calc() to Change the Height",
-            "url": "https://css-tricks.com/fun-tip-use-calc-to-change-the-height-of-a-hero-component/",
-            "category": "web",
-            "tags": ["web", "cssjava"],
-            "logo": "N/A",
-            "description": "of a Hero Component"
-        },
-        {
-            "name": "Free Frontend",
-            "url": "http://freefrontend.com/",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui", "inspiration", "cssjava"],
-            "logo": "http://freefrontend.com/favicon.ico",
-            "description": "Collection of CSS solutions and examples."
-        },
-        {
             "name": "Shards UI Kit",
             "url": "https://designrevision.com/downloads/shards/",
             "category": "web",
             "tags": ["web", "uxui"],
             "logo": "https://designrevision.com/favicons/apple-touch-icon.png?v=",
             "description": "Free Bootstrap 4 UI kit."
-        },
-        {
-            "name": "Postleaf CMS",
-            "url": "https://www.postleaf.org/",
-            "category": "web",
-            "tags": ["web", "cms"],
-            "logo": "https://www.postleaf.org/uploads/2017/05/favicon.png",
-            "description": "Create your next blog with a beautifully designed open source blogging platform built for the modern publisher."
-        },
-        {
-            "name": "Grav CMS",
-            "url": "https://getgrav.org/",
-            "category": "web",
-            "tags": ["web", "cms"],
-            "logo": "https://getgrav-grav.netdna-ssl.com/user/themes/planetoid/images/favicon.png",
-            "description": "Very nice and simple flat-file CMS."
-        },
-        {
-            "name": "PageKit CMS",
-            "url": "https://pagekit.com/",
-            "category": "web",
-            "tags": ["web", "cms"],
-            "logo": "https://pagekit.com/app/system/modules/theme/apple_touch_icon.png",
-            "description": "Very small and fast CMS."
-        },
-        {
-            "name": "Pico CMS",
-            "url": "http://picocms.org/",
-            "category": "web",
-            "tags": ["web", "cms"],
-            "logo": "http://picocms.org/style/images/favicon.png",
-            "description": "Pico makes creating and maintaining a website as simple as editing text files."
-        },
-        {
-            "name": "Super Tiny Social Icons",
-            "url": "https://github.com/edent/SuperTinyIcons",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui"],
-            "logo": "N/A",
-            "description": "SVG and customizable social icons. Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favorite logos."
         },
         {
             "name": "Free Illustrations",
@@ -1070,14 +575,6 @@
             "tags": ["web", "stocks", "uxui"],
             "logo": "https://undraw.co/favicon-32x32.png?v=pgqYQdw7OR",
             "description": "MIT licensed illustrations for every project you can imagine and create."
-        },
-        {
-            "name": "50 Free High Quality Silhouette Sets",
-            "url": "https://www.hongkiat.com/blog/85-free-high-quality-silhouette-sets/",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui"],
-            "logo": "N/A",
-            "description": "List of free high-quality silhouette sets of a wide range of subjects including animal and human figures."
         },
         {
             "name": "FullPage.js",
@@ -1112,22 +609,6 @@
             "description": "CountUp.js is a dependency-free, lightweight JavaScript \"class\" that can be used to quickly create animations that display numerical data in a more interesting way."
         },
         {
-            "name": "15 Free Icon Sets",
-            "url": "https://www.webdesignerdepot.com/2017/04/15-essential-free-icon-sets/",
-            "category": "web",
-            "tags": ["web", "stocks", "uxui"],
-            "logo": "N/A",
-            "description": "Article about free flat icons."
-        },
-        {
-            "name": "Button Hover",
-            "url": "https://freebiesupply.com/blog/css-button-hover-effects/",
-            "category": "web",
-            "tags": ["web", "inspiration", "stocks", "cssjava"],
-            "logo": "N/A",
-            "description": "Buttons are an essential element of interaction design. That’s why they’re so important and that’s why it’s good to get them right."
-        },
-        {
             "name": "Rellax.js",
             "url": "https://dixonandmoe.com/rellax/",
             "category": "web",
@@ -1152,60 +633,12 @@
             "description": "Variety of animate-on-scroll animations."
         },
         {
-            "name": "Scroll Snap Type",
-            "url": "https://codepen.io/chaofix/pen/6535aca9fcfa4d0ea8aca690181cc128",
-            "category": "web",
-            "tags": ["web", "cssjava"],
-            "logo": "N/A",
-            "description": "Pure CSS Scroll Snap Type - Slideshow Both."
-        },
-        {
-            "name": "CRELLO",
-            "url": "https://crello.com/",
-            "category": "web",
-            "tags": ["web", "inspiration"],
-            "logo": "https://crello.com/about-crello/images/favicon.png",
-            "description": "Create designs and get inspired."
-        },
-        {
-            "name": "Canva",
-            "url": "http://www.canva.com",
-            "category": "web",
-            "tags": ["web", "inspiration"],
-            "logo": "http://www.canva.com/favicon.ico",
-            "description": "Visual online design editor. Create designs and get inspired."
-        },
-        {
             "name": "Topol.io",
             "url": "https://topol.io/",
             "category": "web",
             "tags": ["web", "inspiration", "stocks"],
             "logo": "https://topol.io/favicon.ico",
             "description": "Beautiful emails, easily. Our online e-mail editor will help you design beautiful and responsive messages."
-        },
-        {
-            "name": "Web Launch Checklist",
-            "url": "https://weblaunchchecklist.com/",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://weblaunchchecklist.com/favicon.ico",
-            "description": "Online Web Launch Checklist. Very useful web launch checklist."
-        },
-        {
-            "name": "Word Counter",
-            "url": "https://wordcounter.io/",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://wordcounter.io/assets/images/favicon.png?v=1",
-            "description": "Count characters, words, sentences, paragraphs, and pages. Useful tool."
-        },
-        {
-            "name": "CSS Grid Generator",
-            "url": "https://jhpratt.github.io/grid/",
-            "category": "web",
-            "tags": ["web", "cssgrid"],
-            "logo": "N/A",
-            "description": "Simple CSS Grid generator."
         },
         {
             "name": "The Ultimate CSS Generator",
@@ -1216,44 +649,12 @@
             "description": "Visual CSS generator. It allows you to easily generate useful snippets of CSS3 and copy them straight into your projects."
         },
         {
-            "name": "Sizzy",
-            "url": "https://sizzy.co/",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://sizzy.co/favicon.ico",
-            "description": "Online preview of a site on various devices. A tool for testing responsive websites crazy-fast."
-        },
-        {
             "name": "TinEye",
             "url": "https://tineye.com",
             "category": "web",
             "tags": ["web", "other"],
             "logo": "https://tineye.com/favicon.ico",
             "description": "Reverse Image Search. Search by image and find where that image appears online."
-        },
-        {
-            "name": "dotcom-tools",
-            "url": "https://www.dotcom-tools.com",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://www.dotcom-tools.com/blog/wp-content/uploads/2017/10/favicon-21x17.png",
-            "description": "Free Online Website Performance Tools. Instantly get a snapshot of your website availability and performance from nearly two dozen locations around the world."
-        },
-        {
-            "name": "Solis",
-            "url": "https://solisapp.com",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://solisapp.com/favicon.png",
-            "description": "Live Design Output for Mac. Delivering real-time, multi-viewport previewing of HTML, CSS, SCSS, and LESS as you write it."
-        },
-        {
-            "name": "BONSAI",
-            "url": "https://www.hellobonsai.com/freelance-proposals",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://daks2k3a4ib2z.cloudfront.net/58868bcd2ef4daaf0f072900/58868bcd2ef4daaf0f072926_favicon-256x256.png",
-            "description": "Free Freelance proposals. Create, send, and track proposals online."
         },
         {
             "name": "FORMS",
@@ -1270,62 +671,6 @@
             "tags": ["web", "cssgrid"],
             "logo": "N/A",
             "description": "Your ultimate CSS grid visual guide. Simple CSS Grid generator."
-        },
-        {
-            "name": "Compressor.io",
-            "url": "https://compressor.io/compress",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "N/A",
-            "description": "Compress and optimize your images. Compressor.io is a powerful online tool for reducing drastically the size of your images and photos whilst maintaining a high quality with almost no difference before and after compression."
-        },
-        {
-            "name": "Squoosh",
-            "url": "https://squoosh.app",
-            "category": "web",
-            "tags": ["web", "other"],
-            "logo": "https://squoosh.app/assets/favicon.ico",
-            "description": "Compress and optimize your images. Squoosh is a new powerful online tool from Google for compressing your images using new codecs."
-        },
-        {
-            "name": "Flipping content",
-            "url": "http://css3.bradshawenterprises.com/flip/",
-            "category": "web",
-            "tags": ["web", "cssjava", "animation"],
-            "logo": "http://css3.bradshawenterprises.com/favicon.ico",
-            "description": "Flipping a simple image to a div. Flipping a simple image to a div (transitions and 3d transforms)."
-        },
-        {
-            "name": "CSS Icon Animate",
-            "url": "http://cssicon.space/#/",
-            "category": "web",
-            "tags": ["web", "uxui", "stocks", "animation", "cssjava"],
-            "logo": "http://cssicon.space/favicon.png",
-            "description": "Collection of Free Animated Icons. Flat and animated icons."
-        },
-        {
-            "name": "Bootstrap",
-            "url": "http://getbootstrap.com/",
-            "category": "web",
-            "tags": ["web", "uxui", "cssjava", "other"],
-            "logo": "http://getbootstrap.com/favicon.ico",
-            "description": "CSS & JS Framework. For professional developers and designers alike."
-        },
-        {
-            "name": "Foundation",
-            "url": "https://foundation.zurb.com/",
-            "category": "web",
-            "tags": ["web", "uxui", "cssjava", "other"],
-            "logo": "https://foundation.zurb.com/assets/img/icons/foundation-favicon.ico",
-            "description": "CSS & JS Framework. For professional developers and designers alike."
-        },
-        {
-            "name": "Kube",
-            "url": "https://imperavi.com/kube/",
-            "category": "web",
-            "tags": ["web", "uxui", "cssjava", "other"],
-            "logo": "https://imperavi.com/favicon.ico",
-            "description": "CSS & JS Framework. For professional developers and designers alike."
         },
         {
             "name": "Quantity Query",
@@ -1486,22 +831,6 @@
             "tags": ["web", "cssgrid", "education"],
             "logo": "http://varun.ca/apple-touch-icon.png",
             "description": "Great article on CSS Grid. A guide to CSS Grid."
-        },
-        {
-            "name": "Server Side Includes",
-            "url": "http://www.entheosweb.com/website_design/server_side_includes.asp",
-            "category": "web",
-            "tags": ["web", "education", "other"],
-            "logo": "N/A",
-            "description": "Guide to Server Side includes. Make Easy site-wide changes with Server Side Includes."
-        },
-        {
-            "name": "Turn.js",
-            "url": "http://www.turnjs.com/",
-            "category": "web",
-            "tags": ["web", "cssjava", "stocks", "animation", "inspiration"],
-            "logo": "http://www.turnjs.com/favicon.ico",
-            "description": "Make a flip book with HTML5. Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5."
         },
         {
             "name": "Flexbox Grid",
