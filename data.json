@@ -1033,14 +1033,6 @@
             "description": "Interactive charts for browsers and mobile devices. Google chart tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools."
         },
         {
-            "name": "Logo Crunch",
-            "url": "http://brandmark.io/logo-crunch/",
-            "category": "web",
-            "tags": ["web", "logo", "other"],
-            "logo": "N/A",
-            "description": "Multi-resolution logo maker. Logo Crunch is a multi-resolution logo maker, it uses computer vision to make your high-res logo legible at lower resolutions."
-        },
-        {
             "name": "Resume Worded",
             "url": "https://resumeworded.com",
             "category": "web",
