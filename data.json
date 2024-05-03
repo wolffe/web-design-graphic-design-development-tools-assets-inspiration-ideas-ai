@@ -1009,14 +1009,6 @@
             "description": "jQuery typing plugin. The most versatile jQuery typing plugin on the planet."
         },
         {
-            "name": "Joomla",
-            "url": "https://joomla.org",
-            "category": "web",
-            "tags": ["web", "cms"],
-            "logo": "https://joomla.org/favicon.ico",
-            "description": "Award-winning content management system. Joomla! is an award-winning content management system (CMS), which enables you to build websites and powerful online applications."
-        },
-        {
             "name": "Responsive Screenshots",
             "url": "https://snapx.io/",
             "category": "web",
